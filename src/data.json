@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": 1713537042039,
+      "name": "vj",
+      "email": "v@j.com",
+      "phone": "9754625620",
+      "fav": true
+    },
+    {
+      "id": 1713537142256,
+      "name": "Sreeraj S",
+      "email": "sreerajs00000@gmail.com",
+      "phone": "8289979157",
+      "fav": false
+    },
+    {
+      "id": 1713537916156,
+      "name": "sree",
+      "email": "drdfgj@gmail.com",
+      "phone": "7894254522",
+      "fav": false
+    },
+    {
+      "id": 1713538051215,
+      "name": "Sr",
+      "email": "sreerajs00000@gmail.com",
+      "phone": "8289979157",
+      "fav": false
+    }
+  ]
+}
